@@ -2,6 +2,7 @@ import operator
 import tkinter as tk
 from datetime import datetime, timedelta
 
+
 class App:
 
     def __init__(self, file_path="notes"):
